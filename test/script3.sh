@@ -1,4 +1,5 @@
 #!/bin/bash
+# This is an awesome script
 echo "Please enter any filename: "
 read name
 touch $name
