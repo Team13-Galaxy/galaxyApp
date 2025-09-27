@@ -1,8 +1,3 @@
-#this script will be used to check if a user exist in a linux server and
-#Also check if the user directory is present or not
-#Before we test this script let's make sure we have already created the script
-#To add user
-
 #!/bin/bash
 
 echo -n " Please enter the username to be checked: "
